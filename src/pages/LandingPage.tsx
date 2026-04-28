@@ -4,7 +4,6 @@ import { Hero } from '../components/Hero';
 import { MazeSection } from '../components/MazeSection';
 import { HowWeHelp } from '../components/HowWeHelp';
 import { OurApproach } from '../components/OurApproach';
-import { Investment } from '../components/Investment';
 import { WhyQusudi } from '../components/WhyQusudi';
 import { FinalCTA } from '../components/FinalCTA';
 import { Footer } from '../components/Footer';
