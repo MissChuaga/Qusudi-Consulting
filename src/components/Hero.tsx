@@ -13,15 +13,16 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-medium mb-6 animate-fade-in-up">
             <TrendingUp className="w-4 h-4 mr-2" />
-            B2B GTM Consulting & Advisory
+            Qusudi | GTM Strategy & Revenue Architecture for B2B SaaS Founders
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 tracking-tight mb-6 leading-tight">
-            Your Next Phase of <span className="text-blue-600">Growth</span> Starts Here
+            Your GTM Is Still Running Through You. <span className="text-blue-600">Let's Fix That.</span>
           </h1>
           
           <p className="text-xl text-gray-600 mb-10 leading-relaxed max-w-3xl mx-auto">
-            You've built something valuable. Now it's time to build the go‑to‑market engine that can actually scale it. At Qusudi, we take a hard look at your business, diagnose what's really happening across product, sales, and revenue, and work side‑by‑side with you until your GTM motion is clear, aligned, and working.
+            I work with technical and product-focused founders of B2B SaaS companies between $1M and $7M ARR who've validated product-market fit — but are still personally closing every deal because no GTM system exists to replace them. 
+            Every engagement starts with a diagnostic, not a playbook. I find where your revenue system is breaking, then co-build the fix.
           </p>
           
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-16">
@@ -29,7 +30,7 @@ export function Hero() {
               variant="primary" 
               size="lg" 
               withArrow
-              href="https://forms.zohopublic.com/cchuagaqusudico1/form/GTMAssessment/formperma/U_Sfu31KB3w4nfvT8qBX25e2GzQcTil0znh3vYagOxY"
+              href="https://calendly.com/cchuaga-qusudiconsulting/1-1-coffee-chats"
               className="w-full sm:w-auto"
             >
               Take a Free GTM Assessment
