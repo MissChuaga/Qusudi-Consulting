@@ -21,10 +21,7 @@ export function MazeSection() {
           The Maze You're Navigating
         </h2>
         <p className="text-lg text-gray-600">
-          You know there's demand for what you've built—but growth feels slower,
-          messier, and more fragile than it should. Maybe sales still runs
-          through you. Maybe pipeline is inconsistent. Maybe the team is busy,
-          but revenue isn't compounding.
+          Your product works. Customers are paying, churning less than they used to, and telling others. The problem isn't the product. It's that your go-to-market is still improvised — and at your stage, that gap is starting to cost you.
         </p>
       </div>
 
