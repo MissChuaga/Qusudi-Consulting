@@ -13,7 +13,7 @@ export function Hero() {
         <div className="max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center px-3 py-1 rounded-full bg-blue-50 text-blue-700 text-sm font-medium mb-6 animate-fade-in-up">
             <TrendingUp className="w-4 h-4 mr-2" />
-            Qusudi | GTM Strategy & Revenue Architecture for B2B SaaS Founders
+            Qusudi | GTM Strategy & Revenue Architecture for B2B SaaS and AI Founders
           </div>
           
           <h1 className="text-4xl md:text-6xl font-bold text-gray-900 tracking-tight mb-6 leading-tight">
