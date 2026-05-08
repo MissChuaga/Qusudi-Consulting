@@ -4,16 +4,16 @@ import { Compass, AlertTriangle, Activity } from 'lucide-react';
 export function MazeSection() {
   const painPoints = [{
     icon: Compass,
-    title: 'Strategy Gaps',
-    description: "No clear GTM roadmap or growth strategy. You're moving fast but direction isn't always clear or aligned across teams."
+    title: 'You're Still Closing Every Deal Yourself',
+    description: "Your product is working. Customers renew. The NPS is good. But deals still run through you personally — because there's no system that generates pipeline without you in it."
   }, {
     icon: Activity,
-    title: 'Execution Issues',
-    description: 'Knowing what to do does not mean you can do it. Great ideas get lost in translation or stall during implementation.'
+    title: 'Pipeline Is Unpredictable',
+    description: 'You've proven there's a market. But 'proven market' and 'repeatable pipeline' are different things, and right now you only have one of them.'
   }, {
     icon: AlertTriangle,
-    title: 'Revenue Leaks',
-    description: 'Growth stalling despite good product market fit. Leads are dropping off, pipeline is leaky, or churn is creeping up.'
+    title: 'You've Tried Things. Nothing's Stuck',
+    description: 'You've got the budget and you've spent it. The problem isn't that you haven't tried — it's that none of it landed because there was no architecture underneath the tactics.'
   }];
   return <Section background="gray">
       <div className="text-center max-w-3xl mx-auto mb-16">
